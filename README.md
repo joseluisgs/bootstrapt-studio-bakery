@@ -1,6 +1,6 @@
-# Bootstrap Studio Apple
+# Bootstrap Studio Bakery
 
-Ejemplo de la web de Apple usando Bootstrap Studio
+Ejemplo de la web de una panadería usando Bootstrap Studio
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%20Ready-blueviolet)](https://getbootstrap.com/)
 [![BootstrapStudio](https://img.shields.io/badge/BootstrapStudio-%20Ready-blue)](https://bootstrapstudio.io/)
@@ -49,7 +49,7 @@ npm run dist
 
 * [GitHub](https://github.com/joseluisgs) ![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)
 
-* ![GitHub](https://img.shields.io/github/last-commit/joseluisgs/bootstrapt-studio-apple)
+* ![GitHub](https://img.shields.io/github/last-commit/joseluisgs/bootstrapt-studio-bakery)
 
 ## Licencia
 
